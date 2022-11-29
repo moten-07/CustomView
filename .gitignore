@@ -1,0 +1,12 @@
+*.bat
+*.iml
+.idea
+.fleet
+/*/build
+/*/.cxx
+/*/.gradle
+/.gradle/
+local.properties
+gradlew
+/gradle
+/build
